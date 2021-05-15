@@ -1,11 +1,11 @@
 # Sentiment-Analysis-of-IMDB-Movie-Reviews
 * Built a sentiment analysis of IMDB movie reviews using state-of-art deep learning techniques, achieved an accuracy of 97% of the 25k test dataset. 
 
-![accuracy](https://user-images.githubusercontent.com/67188835/118371286-98f70b80-b5b4-11eb-9ae5-f1febb3e55ad.PNG)
+![data2](https://user-images.githubusercontent.com/67188835/118371654-4b7b9e00-b5b6-11eb-9cc4-1a6b4fcd4963.png)
 
 * the dataset is taken from https://ai.stanford.edu/~amaas/data/sentiment/, it is already prepared and labeled either pos or neg
 
-![data2](https://user-images.githubusercontent.com/67188835/118371654-4b7b9e00-b5b6-11eb-9cc4-1a6b4fcd4963.png)
+![dataset](https://user-images.githubusercontent.com/67188835/118371678-6221f500-b5b6-11eb-851e-17769209ead7.PNG)
 
 * To run the project, first download the model used from https://drive.google.com/file/d/1U2BWr5n0UDgGuwf0f5WxmSOVBrl8S5WB/view?usp=sharing, unzip and place the files both in the model and the artifacts folders. Finally, open the flask server by running server.py and start experimenting with the HTML page.
 
