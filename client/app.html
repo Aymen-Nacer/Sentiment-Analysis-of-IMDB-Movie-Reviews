@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sentiment Analysis of IMDB Movie Reviews</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="app.js"></script>
+	<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div class="img"></div>
+<form class="form">
+	<h2 style="color: white;" >Review</h2>
+    <input class="area"  type="text" id="uiSqft" class="floatLabel" name="Squareft" value="enter your review here">
+	</form>
+<form class="form">
+	<button class="submit" onclick="onClickedPredictSentiment()" type="button">Predict Sentiment</button>
+	<div id="uiPredictSentiment" class="result">	<h2></h2> </div>
+</body>
+</html>
