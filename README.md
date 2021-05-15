@@ -1,4 +1,4 @@
-# Sentiment-Analysis-of-IMDB-Movie-Reviews
+# Sentiment Analysis of IMDB Movie Reviews
 * Built a sentiment analysis of IMDB movie reviews using state-of-art deep learning techniques, achieved an accuracy of 97% of 25k test data. 
 
 ![data2](https://user-images.githubusercontent.com/67188835/118371654-4b7b9e00-b5b6-11eb-9cc4-1a6b4fcd4963.png)
